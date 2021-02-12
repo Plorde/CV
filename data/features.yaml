@@ -24,7 +24,7 @@ languages:
 
   - name: "English"
     level: "Professional"
-    certificates: ["TOEFL: 86"]
+    certificates: ["TOEFL: 99"]
 
 address:
     - "Block Xing6, campus of informatics, Wuhan University, Hongshan District, Wuhan, Hubei, China. Postal Code 430072"
@@ -32,7 +32,7 @@ address:
 
 about:
   - name: "Rui Long"
-    tagline: "ios developer, self-motivated"
+    tagline: "ios developer"
     phone: "+86 19986693616"
     email: "plordelr@gmail.com, 2017301500269@whu.edu.cn"
     details: "
